@@ -31,7 +31,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #0a92bb;
+      background-color: #6d32db;
       border-radius: 10px;
       margin:2%;
   }
@@ -40,7 +40,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(12, 141, 23);
+      background-color:rgb(29, 197, 226);
       margin:0;
       border-radius: 10px;
       display:flex;
