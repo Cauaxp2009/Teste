@@ -6,18 +6,18 @@
   }  
   header{
       padding: 20px;
-      border: 4px dashed #b2df85;
+      border: 4px dashed #000000;
   }
       body{
       font-family: 'arial';
-      background-color: #0e031c;
+      background-color: #21adc0;
       color:rgba(0, 0, 0, 0.886);
       margin:10px auto;
       text-align: center;
   }
   
   .menu{
-  color:rgb(46, 126, 99);
+  color:rgb(7, 223, 151);
   text-decoration: 0;
   font-size: 24px;
   margin: 5px;
