@@ -17,7 +17,7 @@
   }
   
   .menu{
-  color:aquamarine;
+  color:rgb(46, 126, 99);
   text-decoration: 0;
   font-size: 24px;
   margin: 5px;
@@ -31,7 +31,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #b2df85;
+      background-color: #d10000;
       border-radius: 10px;
       margin:2%;
   }
@@ -40,7 +40,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(113, 113, 167);
+      background-color:rgba(255, 14, 14, 0.685);
       margin:0;
       border-radius: 10px;
       display:flex;
@@ -50,7 +50,7 @@
   }
   
   #b{
-      background-color:rgb(226, 170, 170);
+      background-color:rgb(29, 4, 4);
       margin:0;
   }
   #tituloPrincipal{
