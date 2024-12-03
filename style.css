@@ -54,18 +54,18 @@
       margin:0;
   }
   #tituloPrincipal{
-      color:rgb(21, 39, 67);
+      color:rgba(4, 194, 228, 0.842);
       font-size: 40px;
       font-family:'Times New Roman';
       text-align: center;
   }
   
   ul{
-      font-size: 28px;
+      font-size: 25px;
       color: black;
   }
   ol{
-      font-size: 28px;
+      font-size: 25px;
       color: black;
   
   }
